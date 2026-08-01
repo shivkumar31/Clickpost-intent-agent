@@ -1,0 +1,694 @@
+[
+  {
+    "company": "Chubbies",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Chubbies uses Loop Returns for managing and processing returns.",
+        "evidence": "Since embracing Loop to create a superior post-purchase experience, Chubbies has been able to reduce time spent on managing and processing returns",
+        "source": "https://www.loopreturns.com/case-studies/case-study-loop-chubbies/",
+        "confidence": 0.94
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Chubbies utilizes AfterShip for tracking order status and delivery notifications.",
+        "evidence": "\u062a\u062a\u0628\u0639 \u062d\u0627\u0644\u0629 \u0637\u0644\u0628 Chubbies Shorts \u0645\u0639 \u0631\u0642\u0645 \u0627\u0644\u062a\u062a\u0628\u0639 \u060c \u0648\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u0625\u0634\u0639\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0641\u0639\u0644\u064a \u0639\u0646\u062f \u062a\u062d\u062f\u064a\u062b \u062d\u0627\u0644\u0629 \u062a\u0633\u0644\u064a\u0645 \u0627\u0644\u0637\u0631\u0648\u062f \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643.",
+        "source": "https://www.aftership.com/ar/brands/chubbiesshorts.com",
+        "confidence": 0.82
+      }
+    ]
+  },
+  {
+    "company": "Rothy's",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Rothy's utilizes Loop Returns to manage its returns and exchanges process.",
+        "evidence": "Loop and Happy Returns are the perfect fit for Rothy's. Together, they provide us with the flexibility and seamless return experience our community expects...",
+        "source": "https://www.loopreturns.com/returnly/",
+        "confidence": 0.94
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Rothy's uses AfterShip for order status tracking and shipping updates.",
+        "evidence": "\u8ddf\u8e2a\u60a8\u7684 Rothy's \u8a02\u55ae\u72c0\u614b - AfterShip: \u540c\u6b65 Rothy's \u96fb\u5b50\u90f5\u4ef6\u6578\u64da \u6211\u5011\u6703\u900f\u904e\u60a8\u7684 Google \u90f5\u7bb1\u81ea\u52d5\u7372\u53d6\u8a02\u55ae\u548c\u904b\u8f38\u8cc7\u8a0a\u3002",
+        "source": "https://www.aftership.com/zh-hant/brands/rothys.com",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Rothy's is expanding its wholesale partnerships, physical store presence, and international reach as part of its core strategy.",
+        "evidence": "Looking ahead, Rothy's is planning to build on its wholesale partnerships and has made stores, along with international expansion, a central part of its strategy.",
+        "source": "https://pitchbook.com/profiles/company/123386-77",
+        "confidence": 0.91
+      },
+      {
+        "category": "Leadership Changes",
+        "description": "Jenny Ming serves as the CEO of Rothy's, guiding its transition beyond D.C.T. and supply chain diversification.",
+        "evidence": "Rothy\u2019s has been resurgent ever since Jenny Ming, a retail veteran of Gap and Old Navy, left the boardroom and got back into the C-suite.",
+        "source": "https://puck.news/rothys-ceo-jenny-ming-talks-product-retail-resilience/",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "company": "Brooklinen",
+    "signals": [
+      {
+        "category": "Hiring Signals",
+        "description": "Brooklinen is hiring a Manager for Inbound Operations to own their First Mile strategy and global inbound logistics.",
+        "evidence": "The Manager, Inbound Operations will own Brooklinen\u2019s First Mile strategy, with responsibility for the financial, operational, and people aspects of global inbound logistics.",
+        "source": "https://www.linkedin.com/jobs/view/manager-inbound-operations-at-brooklinen-4303217177",
+        "confidence": 0.91
+      },
+      {
+        "category": "Hiring Signals",
+        "description": "Brooklinen is hiring a Distribution and Fulfillment Manager to oversee cost, shipping accuracy, and performance KPI data.",
+        "evidence": "Provide weekly + monthly analysis of KPI data to measure our cost, shipping accuracy, and performance.",
+        "source": "https://startup.jobs/distribution-and-fulfillment-manager-brooklinen-2823755",
+        "confidence": 0.88
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Brooklinen utilizes Loop Returns for handling product returns.",
+        "evidence": "Brooklinen Logo with transparent background found on Loop Returns.",
+        "source": "https://www.loopreturns.com/dtc/brooklinen-logo",
+        "confidence": 0.84
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Brooklinen tracks orders and manages shipments using AfterShip.",
+        "evidence": "Track Your Brooklinen Order Status - AfterShip. Get Brooklinen delivery updates.",
+        "source": "https://www.topsitessearch.com/brooklinen.com/",
+        "confidence": 0.87
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Brooklinen raised $50 million in funding from Summit Partners to open physical stores and expand internationally.",
+        "evidence": "Brooklinen, a startup that sells bedding and other home goods online, has raised $50 million in new funding from growth equity firm Summit Partners.",
+        "source": "https://techcrunch.com/2020/03/03/brooklinen-funding/",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Solo Stove",
+    "signals": [
+      {
+        "category": "Customer Pain",
+        "description": "Customer complaints regarding shipping delays and lack of responsibility for delivery failures during holiday periods.",
+        "evidence": "For any orders with 12/25 holiday delivery window Solo Stove is not responsible for shipping failures or delays due to circumstances outside of our control.",
+        "source": "https://www.solostove.com/us/en-us/s/shipping-and-returns",
+        "confidence": 0.83
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Major design-related complaint that the Solo Stove smokeless fire pit directs heat straight up rather than outwards.",
+        "evidence": "One of the major complaints about the Solo Stove smokeless fire pit design is all of the heat goes pretty much straight up.",
+        "source": "https://www.cookoutnews.com/the-solo-stove-heat-deflector-is-now-available/",
+        "confidence": 0.89
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Evidence of using Onward for supporting their operations.",
+        "evidence": "Solo Stove is doing incredible work.#ONWARD.",
+        "source": "https://www.linkedin.com/posts/jerry-smith-40b2b936_onward-activity-7364464627075723266--yRj",
+        "confidence": 0.77
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Solo Stove is bringing major brand expansion across fire, cooking, and cooling to European consumers.",
+        "evidence": "Solo Stove, Maker of the World's Most Popular Smokeless Fire Pit, Brings Major Brand Expansion Across Fire, Cooking, and Cooling to European Consumers",
+        "source": "https://investors.solobrands.com/news/default.aspx",
+        "confidence": 0.94
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Solo Stove is continuing its product and category expansion strategy into griddles, coolers, and advanced fire pits.",
+        "evidence": "Building on last year\u2019s category expansion into griddles, coolers, its most-advanced smokeless fire pits, and propane fire pits, Solo Stove is entering the next phase of its product and category expansion strategy.",
+        "source": "https://shop-eat-surf-outdoor.com/press-releases/solo-stove-continues-product-and-category-expansion/617556/",
+        "confidence": 0.91
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Customer complaint regarding poor customer service experience, long hold times, and inability to modify shipping addresses through FedEx or Solo Stove support.",
+        "evidence": "Called again and waited for another 20 minutes listening to horrible music and no luck. My order that wasn\u2019t supposed to ship until January 09 is arriving tomorrow and no one will be there.",
+        "source": "https://www.reddit.com/r/SoloStove/comments/zhy0jz/customer_service/",
+        "confidence": 0.86
+      }
+    ]
+  },
+  {
+    "company": "Vuori",
+    "signals": [
+      {
+        "category": "Hiring Signals",
+        "description": "Vuori is hiring a Returns Operations Coordinator in San Diego",
+        "evidence": "Vuori is hiring Returns Operations Coordinator in San Diego",
+        "source": "https://www.linkedin.com/jobs/view/returns-operations-coordinator-at-vuori-4371211161",
+        "confidence": 0.92
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Customers reporting shipping issues, overwhelmed shipping departments, and inaccurate tracking information",
+        "evidence": "This past week they gave me inaccurate shipping information so it said my package was waiting to be picked up in California when it was delivered to my doorstep in Florida. TLDR - I think their shipping department is getting overwhelmed and/or they are having staffing issues.",
+        "source": "https://www.reddit.com/r/vuoriclothing/comments/15ep2lu/shipping_issue/",
+        "confidence": 0.86
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Vuori uses AfterShip for order status tracking",
+        "evidence": "Track your Vuori order status with tracking number, get real time notifications when your parcel delivery status updated.",
+        "source": "https://www.aftership.com/brands/vuoriclothing.hk",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Vuori announced an $825 million funding round led by General Atlantic and Stripes",
+        "evidence": "On Friday afternoon, the brand announced an $825 million funding round led by General Atlantic and Stripes.",
+        "source": "https://www.glossy.co/fashion/amid-an-industry-wide-tightening-of-investor-cash-vuori-raises-another-825-million/",
+        "confidence": 0.96
+      },
+      {
+        "category": "Leadership Changes",
+        "description": "Matt King serves as the Chief Technology Officer (CTO) of Vuori",
+        "evidence": "Before joining Vuori as Chief Technology Officer, Matt King had an extensive career in the tech industry",
+        "source": "https://www.clay.com/dossier/vuori-cto",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "company": "Outdoor Voices",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Outdoor Voices utilizes Loop Returns for processing customer returns and gifts.",
+        "evidence": "We're sorry but Loop returns doesn't work properly without JavaScript enabled. Please enable it to continue.",
+        "source": "https://returns.outdoorvoices.com/gifts",
+        "confidence": 0.94
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Outdoor Voices uses AfterShip for order status tracking and delivery notifications.",
+        "evidence": "\u091f\u094d\u0930\u0948\u0915\u093f\u0902\u0917 \u0928\u0902\u092c\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0905\u092a\u0928\u0947 Outdoor Voices \u0911\u0930\u094d\u0921\u0930 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u094b \u091f\u094d\u0930\u0948\u0915 \u0915\u0930\u0947\u0902 - AfterShip",
+        "source": "https://www.aftership.com/hi/brands/outdoorvoices.com",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "company": "Blueland",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Blueland utilizes Loop Returns to manage their return and exchange operations.",
+        "evidence": "We're sorry but Loop returns doesn't work properly without JavaScript enabled. Please enable it to continue.",
+        "source": "https://returns.blueland.com/",
+        "confidence": 0.94
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Customers have reported complaints regarding unresponsive customer service, refusal to resolve billing or refunds, unwanted shipments, and trouble handling exchanges.",
+        "evidence": "Frequent Blueland customer complaints about unresponsive customer service and refusal to resolve billing or refunds. Multiple reports of unwanted shipments, trouble cancelling subscriptions, and website problems handling exchanges.",
+        "source": "https://blueland.pissedconsumer.com/review.html",
+        "confidence": 0.91
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Blueland expanded its retail reach significantly, launching in nearly all Target stores nationwide, expanding in Costco, and entering Kroger and HEB.",
+        "evidence": "Blueland reached more customers in the last year than any prior, launching in nearly all Target stores nationwide, expanding our offerings in all U.S. Costco locations, and launching select products in Kroger and HEB.",
+        "source": "https://www.blueland.com/articles/blueland-2025-impact-report",
+        "confidence": 0.97
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Blueland secured $55 million in funding to support continued growth and expansion into new markets.",
+        "evidence": "The funding will likely be used to support Blueland's continued growth and expansion into new markets.",
+        "source": "https://www.startuphub.ai/ai-news/funding-round/2025/blueland-secures-55-million-in-funding",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "company": "True Classic",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "True Classic uses Loop Returns for managing returns and exchanges through a dedicated portal.",
+        "evidence": "Go to the official True Classic Loop Returns Portal (true-classic-tees.loopreturns.com).",
+        "source": "https://thereturnguide.com/blogs/retail-store-returns/true-classic-return-policy",
+        "confidence": 0.96
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "True Classic utilizes AfterShip for shipment tracking and real-time delivery notifications.",
+        "evidence": "\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e32\u0e23\u0e2a\u0e31\u0e48\u0e07\u0e0b\u0e37\u0e49\u0e2d True Classic \u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e14\u0e49\u0e27\u0e22\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e25\u0e02\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 \u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e41\u0e08\u0e49\u0e07\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e40\u0e23\u0e35\u0e22\u0e25\u0e44\u0e17\u0e21\u0e4c\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e32\u0e23\u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e1e\u0e31\u0e2a\u0e14\u0e38\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15",
+        "source": "https://www.aftership.com/th/brands/trueclassictees.com",
+        "confidence": 0.91
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Customers have reported sizing inconsistencies, incorrect or delayed orders, and issues with return restocking fees.",
+        "evidence": "A few other people also felt that sizing was inconsistent or different from expectations... There were also occasional reports of incorrect or delayed orders and unhelpful responses regarding shipping.",
+        "source": "https://www.trustpilot.com/review/trueclassictees.com",
+        "confidence": 0.88
+      },
+      {
+        "category": "Growth Signals",
+        "description": "True Classic secured its first-ever institutional funding round from 1686 Partners to scale retail, supply chain, and international expansion.",
+        "evidence": "True Classic will use the funding to invest in retailer expansion, production and expanding its assortment. It\u2019s set to open 20 standalone stores in the US this year, more than double its current fleet of eight locations.",
+        "source": "https://www.businessoffashion.com/articles/direct-to-consumer/true-classic-raises-money/",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Feastables",
+    "signals": [
+      {
+        "category": "Hiring Signals",
+        "description": "Feastables is hiring a Supply Chain Manager based in Chicago, IL.",
+        "evidence": "Feastables hiring Supply Chain Manager in Chicago, IL | LinkedIn",
+        "source": "https://www.linkedin.com/jobs/view/supply-chain-manager-at-feastables-4351177811",
+        "confidence": 0.92
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Feastables uses AfterShip for website analytics and tracking.",
+        "evidence": "feastables Analytics - AfterShip",
+        "source": "https://www.aftership.com/brands/feastables.com/analytics",
+        "confidence": 0.88
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Feastables has raised funding across multiple rounds, including a Series A on Feb 13, 2024, with total funding of $130M from investors like Seven Seven Six and Alpha Wave Global.",
+        "evidence": "Their latest funding was raised on Feb 13, 2024 from a Series A round. Feastables is funded by 6 investors... Total funding $130M.",
+        "source": "https://www.crunchbase.com/organization/feastables/company_financials",
+        "confidence": 0.94
+      },
+      {
+        "category": "Leadership Changes",
+        "description": "Jess Cervellon joined Feastables to build out and grow the customer experience team as VP of Customer Experience.",
+        "evidence": "What helped the former VP of Customer Experience at Feastables, Jess Cervellon, grow the business rapidly early on?",
+        "source": "https://www.linkedin.com/posts/brandonamoroso_what-helped-the-former-vp-of-customer-experience-activity-7163920233219440643--XHF",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "company": "Kosas",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Kosas uses Loop Returns for managing returns and exchanges on their website.",
+        "evidence": "Kosas Cosmetics page links to Loop Returns for their returns and refund policy flow.",
+        "source": "https://kosas.com/collections/loop-returns?page=2",
+        "confidence": 0.91
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Kosas utilizes AfterShip for tracking and order performance analytics.",
+        "evidence": "Kosas Cosmetics desktop website performance and order tracking powered by AfterShip.",
+        "source": "https://www.aftership.com/brands/kosas.com/analytics",
+        "confidence": 0.88
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Kosas maintains active corporate and funding profiles on Crunchbase, PitchBook, and Tracxn.",
+        "evidence": "Kosas operates as a color cosmetics company with available financial details, funding rounds, and investor lists on Crunchbase and PitchBook.",
+        "source": "https://www.crunchbase.com/organization/kosas",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "company": "Olipop",
+    "signals": [
+      {
+        "category": "Hiring Signals",
+        "description": "Olipop is actively hiring for a Logistics Coordinator role.",
+        "evidence": "OLIPOP is hiring a Logistics Coordinator. Remote.",
+        "source": "https://startup.jobs/logistics-coordinator-olipop-5690071",
+        "confidence": 0.91
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Olipop raised $50 million in a Series C funding round at a $1.85 billion valuation.",
+        "evidence": "Olipop raised $50 million in a Series C funding round that valued the prebiotic soda brand at $1.85 billion as it competes with rivals such as Poppi.",
+        "source": "https://www.cnbc.com/2025/02/12/olipop-prebiotic-soda-valued-at-1point85-billion-in-funding-round.html",
+        "confidence": 0.96
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Olipop secured a $50 million Series C funding round led by JP Morgan Private Capital's Growth Equity Partners.",
+        "evidence": "Olipop, a rapidly growing player in the functional beverage sector, has successfully closed a $50 million Series C funding round led by JP Morgan Private Capital\u2019s Growth Equity Partners.",
+        "source": "https://www.foodbev.com/news/olipop-secures-50m-in-series-c-funding-to-expand-functional-soda-offerings",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Magic Spoon",
+    "signals": [
+      {
+        "category": "Hiring Signals",
+        "description": "Magic Spoon is hiring an Omni-Channel Logistics Associate in NYC.",
+        "evidence": "Magic Spoon is looking for an Omni-Channel Logistics Associate to support our growing Retail, DTC (Shopify), and Amazon FBA businesses from our NYC office.",
+        "source": "https://www.linkedin.com/posts/magic-spoon-cereal_hiring-logisticsrole-activity-7431746232227618816-Zxk7",
+        "confidence": 0.94
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Customers have reported complaints regarding wrong addresses on orders, bad packaging, and product changes.",
+        "evidence": "Consumers say: Product changes??, Resolved: Wrong address on order, Bad Packaging Magic Spoon Inc. cancellations, returns and exchanges policy",
+        "source": "https://www.trustpilot.com/review/magicspoon.com",
+        "confidence": 0.82
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Magic Spoon utilizes AfterShip for its desktop website performance and analytics tracking.",
+        "evidence": "Magic Spoon desktop website performance scores 58, while mobile scores 42, access the full report here.",
+        "source": "https://www.aftership.com/brands/magicspoon.com/analytics",
+        "confidence": 0.89
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Magic Spoon has a presence on the Redo brand catalog platform.",
+        "evidence": "Magic Spoon offers high-protein, keto-friendly, gluten-free cereal and snacks with 0g sugar. Browse this catalog and pick the brand you love most.",
+        "source": "https://redo.com/brands?q=Food+&+Drink&brand=magicspoon.com",
+        "confidence": 0.86
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Magic Spoon secured $85 million in Series B funding and expanded its retail presence into Target.",
+        "evidence": "Magic Spoon , the maker of better-for-you cereals, secured $85 million in Series B funding as three of its brands make the jump from direct-to-consumer-only offerings to Target store shelves for the first time.",
+        "source": "https://techcrunch.com/2022/06/13/cereal-magic-spoon-series-b-target/",
+        "confidence": 0.97
+      }
+    ]
+  },
+  {
+    "company": "Liquid Death",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Evidence of Loop Returns association or usage with Liquid Death",
+        "evidence": "Liquid Death is listed alongside Loop Returns in commercial transaction context on ForgeGlobal and Fenwick partner profiles.",
+        "source": "https://www.fenwick.com/people/vejay-lalla",
+        "confidence": 0.82
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Evidence of AfterShip usage or reviews for Liquid Death",
+        "evidence": "Liquid Death customer reviews are hosted and tracked on AfterShip.",
+        "source": "https://www.aftership.com/brands/liquiddeath.com/reviews",
+        "confidence": 0.88
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Liquid Death achieved a $1.4 billion valuation following a $67 million funding round.",
+        "evidence": "Liquid Death is valued at $1.4 billion following its March 2024 Series E funding round of $67 million.",
+        "source": "https://sacra.com/c/liquid-death/",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Poppi",
+    "signals": [
+      {
+        "category": "Growth Signals",
+        "description": "PepsiCo completed the acquisition of Poppi to scale its momentum and portfolio transformation.",
+        "evidence": "PepsiCo completes acquisition of poppi, accelerating strategic portfolio transformation",
+        "source": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-completes-acquisition-of-poppi-accelerating-strategic-portfolio-transformation",
+        "confidence": 0.94
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Poppi hired independent agency Mirimar for its creative roster, with a Super Bowl commercial planned.",
+        "evidence": "Poppi has added independent agency Mirimar to its creative roster, according to the brand. The move signals a new marketing phase for the high-flying prebiotic soda brand under new owner PepsiCo.",
+        "source": "https://adage.com/agencies/accounts-in-review/aa-poppi-hires-mirimar-and-eyes-super-bowl-2026-commercial/",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "company": "Graza",
+    "signals": [
+      {
+        "category": "Growth Signals",
+        "description": "Graza expanded beyond olive oil into a limited edition wine release and is experiencing meteoric growth.",
+        "evidence": "Why This Cult Olive Oil Brand Just Expanded Into Wine Following a limited edition wine release for the holidays, Graza CEO Andrew Benin reflects on the company\u2019s meteoric growth\u2014and what\u2019s next.",
+        "source": "https://www.inc.com/maria-jose-gutierrez-chavez/how-this-cult-olive-oil-brand-just-expanded-into-wine/91260879",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Graza hit a $240M valuation following increased investment from The Cashmere Fund.",
+        "evidence": "Graza Hits $240M Valuation \u2013 A 10x Investment for The Cashmere Fund",
+        "source": "https://www.thecashmerefund.com/blogs/graza-hits-240m-valuation---a-10x-investment-for-the-cashmere-fund",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Ridge Wallet",
+    "signals": [
+      {
+        "category": "Customer Pain",
+        "description": "Customers reporting slow or unreturned emails and delays in handling warranty claims.",
+        "evidence": "Returning emails would be nice. Timely warranty claims would also be good. (None of which are in place).",
+        "source": "https://the-ridge-wallet.pissedconsumer.com/complaints/RT-P.html",
+        "confidence": 0.89
+      },
+      {
+        "category": "Customer Pain",
+        "description": "Shipping delays acknowledged by the company due to carrier disruptions, weather, or labor strikes.",
+        "evidence": "While we strive to ensure timely delivery, there may be delays due to circumstances beyond our control, such as carrier disruptions, severe weather, natural disasters, or labor strikes.",
+        "source": "https://ridge.com/pages/shipping-info",
+        "confidence": 0.82
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "The Ridge Wallet utilizes Loop Returns for handling product returns and exchanges.",
+        "evidence": "We're sorry but Loop returns doesn't work properly without JavaScript enabled.",
+        "source": "https://ridge-wallet.loopreturns.com/",
+        "confidence": 0.96
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "The Ridge Wallet uses Loop Returns for tracking pages and ecommerce operations.",
+        "evidence": "The Ridge Wallet's 'Three-Column' Tracking Page ... Loop Returns",
+        "source": "https://www.loopreturns.com/swipe-file/tracking-pages/ridge-multi-tp/",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "company": "Manscaped",
+    "signals": [
+      {
+        "category": "Growth Signals",
+        "description": "Manscaped announced a Series B funding round.",
+        "evidence": "MANSCAPED\u00ae Announces Series B Funding Round.",
+        "source": "https://www.manscaped.com/blogs/newsroom/manscaped\u00ae-announces-series-b-funding-round",
+        "confidence": 0.94
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Funding is being used to accelerate global omnichannel expansion and product development.",
+        "evidence": "The funding from these investors will be used to accelerate Manscaped\u2019s global omnichannel expansion and product development.",
+        "source": "https://thebrandhopper.com/featured-startups/manscaped-founder-business-revenue-model-funding-more/",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "company": "Native Deodorant",
+    "signals": [
+      {
+        "category": "Customer Pain",
+        "description": "Customers report significant issues with delivery, product defects, and unresponsive customer service.",
+        "evidence": "Many customers reported significant issues with customer service, finding it unresponsive, unhelpful, or completely absent when trying to resolve problems with orders or products. Frequent complaints about product defects, delivery, and support.",
+        "source": "https://www.trustpilot.com/review/nativecos.com",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Native continues to expand its product line and leverage Procter & Gamble's global supply chain for international expansion following its acquisition.",
+        "evidence": "Following its acquisition, Native continues to expand under a larger corporate umbrella: Product Line Expansion: Broader personal care offerings including body wash and hair care. Global Distribution: Leveraging Procter & Gamble\u2019s global supply chain for international expansion.",
+        "source": "https://marketspy.com/news/native----the-deodorant-startup-disrupting-personal-care-with-clean-ingredients",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "company": "Beardbrand",
+    "signals": [
+      {
+        "category": "Customer Pain",
+        "description": "Customer complaint regarding inventory stockouts affecting product availability.",
+        "evidence": "In the end, I still like the Beardbrand products but they just can't keep supply in stock so I have to look elsewhere. It's a bummer and I hope they get that shorted out.",
+        "source": "https://www.reddit.com/r/BeardTalk/comments/190enyq/is_beardbrand_just_not_great_anymore/",
+        "confidence": 0.86
+      },
+      {
+        "category": "Hiring Signals",
+        "description": "Beardbrand posted an opening for a YouTube & Social Media Director / Producer.",
+        "evidence": "Beardbrand hiring YouTube & Social Media Director... | LinkedIn",
+        "source": "https://www.linkedin.com/jobs/view/youtube-social-media-director-producer-at-beardbrand-3241763482",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "company": "Caraway",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Caraway is identified as a user of Loop Returns on their home goods landing page.",
+        "evidence": "caraway | Loop Returns",
+        "source": "https://www.loopreturns.com/home-goods/caraway/",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "company": "Our Place",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Our Place uses AfterShip to track order status for US orders.",
+        "evidence": "\u0938\u092d\u0940 Our Place - US \u0911\u0930\u094d\u0921\u0930 \u091f\u094d\u0930\u0948\u0915 \u0915\u0930\u0947\u0902 \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930 \u092e\u0947\u0902 USPS, FedEx, UPS, DHL, Lasership \u092f\u093e 1,068 \u0915\u094b\u0930\u093f\u092f\u0930 \u0915\u093e \u0938\u092e\u0930\u094d\u0925\u0928 \u0915\u0930\u0947\u0902\u0964",
+        "source": "https://www.aftership.com/hi/brands/fromourplace.com",
+        "confidence": 0.89
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Our Place uses an online return platform accessible via subdomain for returns and exchanges.",
+        "evidence": "Start your return or exchange process seamlessly with Our Place's easy-to-use online return platform.",
+        "source": "https://returns.fromourplace.com/",
+        "confidence": 0.82
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Our Place is identified as a consumer goods startup based in Los Angeles with a Series B funding history.",
+        "evidence": "Our Place - Consumer Goods startup based in Los Angeles, United States. View investors, funding history & founder contacts.",
+        "source": "https://www.vcbacked.co/company/our-place",
+        "confidence": 0.87
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Kitchenware brand Our Place leverages ShipBob Plus to drive cost savings and optimize the customer experience.",
+        "evidence": "Learn how kitchenware brand Our Place leverages ShipBob Plus to drive cost savings and optimize the customer experience.",
+        "source": "https://in.linkedin.com/in/vivek-dhavale-44523212",
+        "confidence": 0.91
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Our Place has achieved viral success and expanded through physical locations and pop-ups like Venice Beach.",
+        "evidence": "From launch to viral success: Our Place\u2019s Shopify growth story ... Our Venice Beach location has an amazing outdoor space where we host community events",
+        "source": "https://www.shopify.com/case-studies/our-place",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "company": "Jones Road Beauty",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Jones Road Beauty utilizes Loop Returns for managing returns and exchanges.",
+        "evidence": "A key objective for Jones Road Beauty was to not only streamline returns but also retain revenue and encourage product discovery. Loop's advanced exchange capabilities and the \"Shop Now\" in-app feature have proven instrumental in achieving this.",
+        "source": "https://www.loopreturns.com/case-studies/case-study-loop-jones-road-beauty/",
+        "confidence": 0.94
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Jones Road Beauty uses AfterShip for order tracking capabilities.",
+        "evidence": "\u091f\u094d\u0930\u0948\u0915\u093f\u0902\u0917 \u0928\u0902\u092c\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0905\u092a\u0928\u0947 Jones Road \u0911\u0930\u094d\u0921\u0930 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u094b \u091f\u094d\u0930\u0948\u0915 \u0915\u0930\u0947\u0902, \u091c\u092c \u0906\u092a\u0915\u0940 \u092a\u093e\u0930\u094d\u0938\u0932 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0905\u092a\u0921\u0947\u091f \u0939\u094b \u091c\u093e\u090f \u0924\u094b \u0935\u093e\u0938\u094d\u0924\u0935\u093f\u0915 \u0938\u092e\u092f \u0915\u0940 \u0938\u0942\u091a\u0928\u093e\u090f\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0947\u0902\u0964",
+        "source": "https://www.aftership.com/hi/brands/jonesroadbeauty.com",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Jones Road Beauty has scaled into a $100M brand.",
+        "evidence": "Jones Road Beauty built a $100M brand with no gimmicks \u2014 just smart strategy, viral moments, and a legendary founder at the front.",
+        "source": "https://www.tacticone.co/blog/how-jones-road-beauty-built-a-100m-brand-by-breaking-every-rule",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "company": "Tushy",
+    "signals": [
+      {
+        "category": "Competitor Usage",
+        "description": "Tushy uses Loop Returns for its post-purchase and tracking page experience.",
+        "evidence": "TUSHY's 'Two-Column' Tracking Page - loopreturns.com",
+        "source": "https://www.loopreturns.com/swipe-file/tracking-pages/tushy-tp/",
+        "confidence": 0.92
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Tushy previously raised $2.1 million in a funding round in August 2019.",
+        "evidence": "TUSHY raised $2,100,000 / Series Unknown from Montauk Ventures and Unorthodox Ventures.",
+        "source": "https://www.crunchbase.com/organization/tushy/company_overview/overview_timeline",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "company": "Momofuku Goods",
+    "signals": [
+      {
+        "category": "Growth Signals",
+        "description": "Momofuku Goods secured $11.5 million in funding led by Alliance Consumer Growth to accelerate nationwide distribution and expansion.",
+        "evidence": "Momofuku Goods, a US-based supplier of noodles and sauces, has secured $11.5m in funding to accelerate its nationwide distribution. Leading the funding round is Alliance Consumer Growth (ACG), a consumer-focused equity firm, along with existing investor Siddhi Capital.",
+        "source": "https://www.foodandbeverage.business/finance/momofuku-goods-secures-funding-to-expand-nationwide/",
+        "confidence": 0.94
+      },
+      {
+        "category": "Competitor Usage",
+        "description": "Momofuku Goods uses ShipHero for operational logistics and order fulfillment.",
+        "evidence": "We can focus on growing the business, focus on new markets, and not have to worry about the operational logistics that they provide for us.\u201d - Bob Kim, Head of IT, Momofuku Goods. Read more and watch the video about Momofuku, Shopify Plus and ShipHero HERE.",
+        "source": "https://www.shiphero.com/newsroom/momofuku-goods-effortlessly-delivers-the-goods-to-up-to-30000-customers-per-month",
+        "confidence": 0.88
+      },
+      {
+        "category": "Hiring Signals",
+        "description": "Momofuku Goods is hiring a Customer Logistics Specialist to support the Operations Team.",
+        "evidence": "The Momofuku Goods Customer Logistics Specialist will support the Operations Team with tactical day-to-day order entry and order management across the 3PL\u2026",
+        "source": "https://www.simplyhired.com/search?q=momofuku",
+        "confidence": 0.82
+      }
+    ]
+  },
+  {
+    "company": "Parade Underwear",
+    "signals": [
+      {
+        "category": "Customer Pain",
+        "description": "Customer experienced incorrect shipments of poor quality garments and received no response from customer support despite follow-ups.",
+        "evidence": "When they did, both the items were incorrect and not what I had ordered: two random, unbranded, poor quality garments. I reached out to customer support for a resolution, but they never responded, despite my follow ups.",
+        "source": "https://www.trustpilot.com/review/yourparade.com",
+        "confidence": 0.89
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Parade launched an underwear recycling program in partnership with TerraCycle.",
+        "evidence": "Parade launched an underwear recycling program in partnership with TerraCycle, a recycling solutions company.",
+        "source": "https://www.inc.com/alyssa-khan/how-this-underwear-startup-is-helping-tackle-a-little-known-environmental-problem.html",
+        "confidence": 0.94
+      },
+      {
+        "category": "Growth Signals",
+        "description": "Parade was acquired in 2023 by Ariela & Associates International.",
+        "evidence": "Parade is an American apparel company known for its underwear. It was founded in 2019 by Cami T\u00e9llez and Jack DeFuria and acquired in 2023 by Ariela & Associates.",
+        "source": "https://en.wikipedia.org/wiki/Parade_(company)",
+        "confidence": 0.96
+      }
+    ]
+  }
+]
