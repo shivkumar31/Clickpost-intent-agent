@@ -1,4 +1,4 @@
-# ClickPost Outbound Sequences — Top Accounts
+# ClickPost Outbound Sequences â€” Top Accounts
 
 ## Vuori (score: 100/100)
 
@@ -30,7 +30,7 @@ Open to seeing a 5-minute breakdown of how we compare to AfterShip for brands at
 
 ### LinkedIn Message
 
-Saw the news on Magic Spoon securing your $85M Series B and scaling up your retail footprint into Target stores. Going omnichannel while scaling D2C brings a massive spike in WISMO tickets and reverse logistics complexity. We built ClickPost to help brands handle this exact transition by automating tracking and reducing return-to-origin losses—moving past legacy tools like AfterShip. Would love to share how we are helping teams streamline this. Open to connecting?
+Saw the news on Magic Spoon securing your $85M Series B and scaling up your retail footprint into Target stores. Going omnichannel while scaling D2C brings a massive spike in WISMO tickets and reverse logistics complexity. We built ClickPost to help brands handle this exact transition by automating tracking and reducing return-to-origin lossesâ€”moving past legacy tools like AfterShip. Would love to share how we are helping teams streamline this. Open to connecting?
 
 ### Follow-up Email
 
